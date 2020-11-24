@@ -47,5 +47,7 @@ public class DebitTest {
         debit.charge(200.00);
         assertEquals(1, debit.getCharges());
     }
+
+
 }
 
